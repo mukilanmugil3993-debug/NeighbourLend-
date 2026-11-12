@@ -1,0 +1,8 @@
+{
+  "name": "NeighbourLend",
+  "description": "Community equipment-sharing marketplace. Share more, spend less, and build a stronger community with verified local equipment lending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
